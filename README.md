@@ -82,5 +82,3 @@ The dataset represents a food delivery platform and includes information related
 * A small segment of users contributes disproportionately to total revenue
 * Restaurants within a particular **rating range** generate the highest revenue
 
-
-⭐ *If you find this project useful, feel free to star the repository!*
